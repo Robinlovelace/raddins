@@ -1,0 +1,16 @@
+Name: Fix line width
+Description: Formats text to have a maximum line width. Inserts a line break
+  where needed.
+Binding: fix_width
+Interactive: false
+
+Name: Move current line up
+Description: Moves the selected line up and concatenates it with the line
+  above.
+Binding: move_up
+Interactive: false
+
+Name: Add comment block
+Description: Add block comment
+Binding: comment_block
+Interactive: false

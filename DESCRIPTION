@@ -1,0 +1,17 @@
+Package: raddins
+Type: Package
+Title: Collection of RStudio Addins
+Version: 0.1.0
+Authors@R: person(given="Colin", family="Gillespie",
+    email="csgillespie@gmail.com", role = c("aut", "cre"))
+Maintainer: Colin Gillespie <csgillespie@gmail.com>
+Description: A collection of RStudio Addins.
+License: GPL-2 | GPL-3
+LazyData: TRUE
+URL: https://github.com/csgillespie/raddins
+BugReports: https://github.com/csgillespie/raddins/issues
+Imports:
+    rstudioapi
+Suggests: knitr
+RoxygenNote: 5.0.1
+VignetteBuilder: knitr
