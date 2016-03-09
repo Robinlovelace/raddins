@@ -15,7 +15,7 @@ devtools::install_github("csgillespie/raddins")
 After installing the package, the _Addins_ menu toolbar will be populated with the 
 new, exported addins
 
-![alt text][https://raw.github.com/csgillespie/raddins/master/images/screenshot.png]
+![alt text](https://raw.github.com/csgillespie/raddins/master/images/screenshot.png)
 
 
 ## Addins
