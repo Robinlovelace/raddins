@@ -19,3 +19,9 @@ new, exported addins
 
 
 ## Addins
+
+This package currently has three addins:
+
+  * `comment_block`
+  * `fix_width`
+  * `move_up`
