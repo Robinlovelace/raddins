@@ -11,7 +11,7 @@ LazyData: TRUE
 URL: https://github.com/csgillespie/raddins
 BugReports: https://github.com/csgillespie/raddins/issues
 Imports:
-    rstudioapi
+    rstudioapi(>= 0.5)
 Suggests: knitr
 RoxygenNote: 5.0.1
 VignetteBuilder: knitr
