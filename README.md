@@ -22,6 +22,20 @@ new, exported addins
 
 This package currently has three addins:
 
-  * `comment_block`
-  * `fix_width`
-  * `move_up`
+### `comment_block`
+
+Changes text from
+
+```
+Some text
+```
+
+to
+```
+###################################################
+## Some text                                     ##
+###################################################
+
+## `fix_width`
+
+## `move_up`
