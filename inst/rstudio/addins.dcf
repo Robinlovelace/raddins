@@ -14,3 +14,8 @@ Name: Add comment block
 Description: Add block comment
 Binding: comment_block
 Interactive: false
+
+Name: Add RStudio section
+Description: Add RStudio section
+Binding: rstudio_section
+Interactive: false
