@@ -2,7 +2,7 @@
 remove_white = function(x) gsub("(^[[:space:]]+|[[:space:]]+$)", "", x)
 
 
-#' Add a comment block
+#' Adds a comment block
 #'
 #' Surrounds text with a comment block
 #' @export

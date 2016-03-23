@@ -2,7 +2,7 @@
 % Please edit documentation in R/comment_block.R
 \name{comment_block}
 \alias{comment_block}
-\title{Add a comment block}
+\title{Adds a comment block}
 \usage{
 comment_block()
 }
