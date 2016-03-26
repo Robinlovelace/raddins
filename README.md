@@ -39,6 +39,7 @@ to
 ###################################################
 ## Some text                                     ##
 ###################################################
+```
 
 ## `fix_width`
 
@@ -48,11 +49,16 @@ Formats text to have a maximum width of `options(width)`
 
 Moves a line of text up one row and appends it to the line above.
 
-## `rstudio_section
+## `rstudio_section`
 
 Makes an rstudio section block by adding `#` to the start of the line and 
 appending `----` to the end.
 
+## Other addins
+
+  * Jenny Bryan's assign default [arguments](https://github.com/jennybc/jadd)
+  * [WrapRmd](https://github.com/tjmahr/WrapRmd) which wraps R Markdown 
+  text without mangling inline R code
 
 ## Other information
 
