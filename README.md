@@ -2,10 +2,14 @@
 [![Build Status](https://travis-ci.org/csgillespie/raddins.png?branch=master)](https://travis-ci.org/csgillespie/raddins) 
 [![CRAN](http://www.r-pkg.org/badges/version/raddins)](http://cran.rstudio.com/package=raddins)
 
+RStudio addins let you execute a bit of R code or a Shiny app through the RStudio IDE,
+either via the Addins dropdown menu or with a keyboard shortcut. 
 
 This package contains a collection of RStudio
 [addins](https://rstudio.github.io/rstudioaddins/). To run these addins, you need the
-latest version of [RStudio](https://www.rstudio.com/). The package can be installed via
+latest version of [RStudio](https://www.rstudio.com/). 
+
+This package can be installed via
 ```
 devtools::install_github("csgillespie/raddins")
 ```
@@ -20,7 +24,7 @@ new, exported addins
 
 ## Addins
 
-This package currently has three addins:
+This package currently has four addins:
 
 ### `comment_block`
 
@@ -38,4 +42,19 @@ to
 
 ## `fix_width`
 
+Formats text to have a maximum width of `options(width)`
+
 ## `move_up`
+
+Moves a line of text up one row and appends it to the line above.
+
+## `rstudio_section
+
+Makes an rstudio section block by adding `#` to the start of the line and 
+appending `----` to the end.
+
+
+## Other information
+
+ * If you have any suggestions or find bugs, please use the github issue tracker.
+ * Feel free to submit pull requests for new addins.
