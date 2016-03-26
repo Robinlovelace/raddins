@@ -7,6 +7,6 @@
 rstudio_section()
 }
 \description{
-This addon converts a text to an RStudio section or code folding block.
+This addon converts text to an RStudio section or code folding block.
 }
 

@@ -1,6 +1,6 @@
 #' Converts text to an RStudio section
 #'
-#' This addon converts a text to an RStudio section or code folding block.
+#' This addon converts text to an RStudio section or code folding block.
 #' @export
 rstudio_section = function() {
 
