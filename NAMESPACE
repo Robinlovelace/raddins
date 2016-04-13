@@ -2,6 +2,7 @@
 
 export(comment_block)
 export(fix_width)
+export(make_bold)
 export(move_up)
 export(rstudio_section)
 import(rstudioapi)
